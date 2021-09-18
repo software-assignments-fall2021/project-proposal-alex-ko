@@ -8,7 +8,7 @@ Why: I want to transform this hobby of mine into a social network where people c
 
 ## For whom? 
 
-For people who have workout habits, who enjoy exercising with people rather than alone, who are more motivated and love accepting challenges, or somebody who is a beginner and prefers starting a new habit with someone. I can imagine this software would be more targeted towards younger generations, but all ages and occupations are all welcomed too. 
+For people who have workout habits, who enjoy exercising with people rather than alone, who are more motivated and love accepting challenges, or somebody who is a beginner and prefers starting a new habit with someone. I can imagine this software would be more targeted towards younger generations, but all ages and occupations are welcomed. 
 
 ## How? 
 
@@ -18,8 +18,11 @@ For people who have workout habits, who enjoy exercising with people rather than
 4. Users can share their challenge status on the timeline on our app, or to their own social media too. (Completed, or in progress)
 5. Users can see what challenges their friends are currently taking and send requests to join them or take on the challenges themselves, or challenge others too. 
 6. Points can be redeemed for free stuff, gears, gym membership trais, premium features, exlusive fitness content. 
-7. Users can join events at a large scale such as marathons for breast cancer or o
+7. Users can join events at a large scale such as 100 burpees in 10 mins collectively across the whole app, or public events like marathons for breast cancer and challenge their friends to do it with them. Such events can be hosted and promoted on our platform. 
 8. Users can even send challenge invites to non-users, and thus they would feel more intrigued to accept the challenges. A example can be "I challenge to run 3k around Central Park with me". Users then can download the app and try out. 
 
 ## Scope
+In terms of creating the databases, sign up system, web interfaces or just the app itself, would be feasible as a group project in this courses. However, in terms of collaboratiion with gyms, fitness coaches, gear companies, or accepting advertisements would be too ambitious at this point and can be only accomplished once we have enough users. 
+
+
 
