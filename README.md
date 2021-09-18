@@ -14,7 +14,7 @@ For people who have workout habits, who enjoy exercising with people rather than
 
 1. Users can register their profiles on the app. 
 2. Users can accept challenges by other people, create challenges for themselves, and send challenges to their friends. 
-3. Once challenges are comnpleted, users can earn points. 
+3. Once challenges are completed, users can earn points. 
 4. Users can share their challenge status on the timeline on our app, or to their own social media too. (Completed, or in progress)
 5. Users can see what challenges their friends are currently taking and send requests to join them or take on the challenges themselves, or challenge others too. 
 6. Points can be redeemed for free stuff, gears, gym membership trais, premium features, exlusive fitness content. 
