@@ -1,4 +1,4 @@
-# Fitvion - A Social Fitness App
+# Fitegy - A Social Fitness App
 
 ## What and why?
 
