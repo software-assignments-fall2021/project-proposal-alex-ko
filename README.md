@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Fitegy - A Social Fitness App
+=======
+# WeFit - A Social Fitness App
+>>>>>>> 1aa41c8087a8b0a727f177a5c72982a0b2b7894d
 
 ## What and why?
 
