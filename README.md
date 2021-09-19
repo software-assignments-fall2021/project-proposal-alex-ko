@@ -1,4 +1,4 @@
-# Kofit - A Social Fitness App
+# WeFit - A Social Fitness App
 
 ## What and why?
 
