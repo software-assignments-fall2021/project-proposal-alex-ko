@@ -1,4 +1,4 @@
-# Kofit - A Social Fitness App
+# Fitvion - A Social Fitness App
 
 ## What and why?
 
