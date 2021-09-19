@@ -1,4 +1,4 @@
-# Project Proposal 
+# Kofit - A Social Fitness App
 
 ## What and why?
 
