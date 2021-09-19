@@ -1,4 +1,4 @@
-# Project Proposal
+# Project Proposal 
 
 ## What and why?
 
@@ -24,5 +24,5 @@ For people who have workout habits, who enjoy exercising with people rather than
 ## Scope
 In terms of creating the databases, sign up system, web interfaces or just the app itself, would be feasible as a group project in this courses. However, in terms of collaboratiion with gyms, fitness coaches, gear companies, or accepting advertisements would be too ambitious at this point and can be only accomplished once we have enough users. 
 
-
+## This project is proposed by Alex Ko and Corey Dublin
 
