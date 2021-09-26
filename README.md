@@ -22,7 +22,7 @@ For people who have workout habits, who enjoy exercising with people rather than
 8. Users can even send challenge invites to non-users, and thus they would feel more intrigued to accept the challenges. A example can be "I challenge to run 3k around Central Park with me". Users then can download the app and try out. 
 
 ## Scope
-In terms of creating the databases, sign up system, web interfaces or just the app itself, would be feasible as a group project in this courses. However, in terms of collaboratiion with gyms, fitness coaches, gear companies, or accepting advertisements would be too ambitious at this point and can be only accomplished once we have enough users. 
+In terms of creating the databases, sign-up system, user interfaces or just the app itself, would be feasible as a group project in this courses. However, in terms of collaboratiion with gyms, fitness coaches, gear companies, or accepting advertisements would be too ambitious at this point and can be only accomplished once we have enough users. 
 
 ## This project is proposed by Alex Ko and Corey Dublin
 
